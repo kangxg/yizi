@@ -1,0 +1,39 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "75BB416ABA9B1C45B353CF8CDB55BF4BBA7AB326",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8fb29d72-f352-44e4-b356-548a4d6ac5c3++6670" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "75BB416ABA9B1C45B353CF8CDB55BF4BBA7AB326" : 0,
+    "8fb29d72-f352-44e4-b356-548a4d6ac5c3++6670" : 0,
+    "7CDDC2E9C542B9AEDD1AA243E72A68647D75EFFD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5A135B93-7646-48B2-9308-C2E3F5099677",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "75BB416ABA9B1C45B353CF8CDB55BF4BBA7AB326" : "yztvgit\/",
+    "8fb29d72-f352-44e4-b356-548a4d6ac5c3++6670" : "yizitv_repository\/YiziTV\/YiziTV\/Classes\/Common\/Security\/",
+    "7CDDC2E9C542B9AEDD1AA243E72A68647D75EFFD" : "yizitv_repository\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YiziTV",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YiziTV\/YiziTV.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/YiziJob_iOS_Team\/yztvgit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "75BB416ABA9B1C45B353CF8CDB55BF4BBA7AB326"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/YiziJob_iOS_Team\/yizitv_repository.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7CDDC2E9C542B9AEDD1AA243E72A68647D75EFFD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.20.0.15\/project\/cn\/ChiefSign",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8fb29d72-f352-44e4-b356-548a4d6ac5c3++6670"
+    }
+  ]
+}

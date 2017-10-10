@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/Features/Home_Page(首页)/Controller/HomeViewController.m \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/Features/Home_Page(首页)/Controller/HomeViewController.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/Base/SuperViewController/FirstLayerViewController.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/Base/SuperViewController/BaseViewController.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/Features/LiveVideo_Page(直播)/Controller/LivePlayerViewController.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/Base/SuperViewController/SecondLayerViewController.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/DataModel/LiveInfoModel.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/DataModel/BaseDataModel.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/Features/Home_Page(首页)/Views/Cell/HomeViewTableViewCell.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/MJRefresh.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/UIScrollView+MJRefresh.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/MJRefreshConst.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/UIScrollView+MJExtension.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/UIView+MJExtension.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/Custom/Header/MJRefreshNormalHeader.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/Custom/Header/MJRefreshStateHeader.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/Base/MJRefreshHeader.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/Base/MJRefreshComponent.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/NSBundle+MJRefresh.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/Custom/Header/MJRefreshGifHeader.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/Base/MJRefreshBackFooter.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/Base/MJRefreshFooter.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/Base/MJRefreshAutoFooter.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/ThreeLibraries/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/Base/Tablebar/YZTVTabBar.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/Base/Tablebar/YZTVTabBarButton.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/Features/Home_Page(首页)/SearchVC(搜索)/SearchViewController.h \
+  /Users/liangfei/Desktop/YiziTV/YiziTV/Classes/Features/Home_Page(首页)/CityViewController(城市)/CityViewController.h
